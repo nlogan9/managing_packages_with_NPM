@@ -13,5 +13,6 @@
 	},
 	"author": "Nathan Logan",
 	"description": "A project that does something awesome",
-	"keywords": ["freecodecamp", "npm", "managing nodes"]
+	"keywords": ["freecodecamp", "npm", "managing nodes"],
+	"license": "MIT"
 }
